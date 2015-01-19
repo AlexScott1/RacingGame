@@ -1,0 +1,25 @@
+[section_1]
+vec1 = XMVectorSet(0.0f,0.0f,1.0f, 0.0f)
+vec2 = XMVectorSet(1.0f,0.0f,0.0f, 0.0f)
+
+[section_2]
+Width = 800
+Height = 600
+rotx = 0;
+scaleX = 1.0f
+charCamDist = 15.0f
+moveLeftRight = 0.0f
+
+[section_3]
+wrong = false
+right = true
+
+[playerStartLocation]
+playerStartX = 0.0f
+playerStartY = 0.0f
+playerStartZ = 0.0f
+
+[enemyStartLocation]
+enemyStartX = 10.0f
+enemyStartY = 0.0f
+enemyStartZ = 0.0f

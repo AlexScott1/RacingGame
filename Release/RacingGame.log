@@ -1,0 +1,16 @@
+﻿Build started 05/01/2015 00:17:47.
+     1>Project "C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\RacingGame.vcxproj" on node 2 (Build target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\fxc.exe /nologo /E"main" /Fo "C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\Release\effects.cso" effects.fx 
+     1>C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\effects.fx(35,18-35): warning X3206: 'mul': implicit truncation of vector type
+     1>C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\effects.fx(35,2-35): warning X3206: implicit truncation of vector type
+     1>C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\effects.fx(50,2-37): warning X3206: implicit truncation of vector type
+     1>C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\effects.fx(51,2-79): warning X3206: implicit truncation of vector type
+     1>FXC : error X3501: 'main': entrypoint not found
+         
+         compilation failed; no code produced
+     1>Done Building Project "C:\Users\Alex\Dropbox\University Year 2\FURTHER GAMES AND GRAPHICS CONCEPTS\3DRacingGame\RacingGame\RacingGame\RacingGame.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
